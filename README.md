@@ -24,7 +24,6 @@ A simple To-Do web application built with Flask, SQLite and Flask-SQLAlchemy.
 - Jinja2
 - HTML
 - CSS
-- JavaScript
 
 ## Project Structure
 
